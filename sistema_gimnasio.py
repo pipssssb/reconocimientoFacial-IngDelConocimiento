@@ -224,7 +224,7 @@ def capturar_y_reconocer():
 
                     print("\nNO RECONOCIDO")
 
-                    # NUEVA FUNCIONALIDAD: Opción de registro
+                    # Opción de registro
                     respuesta = input("\n¿Deseas registrarte en el gimnasio? (s/n): ").strip().lower()
 
                     if respuesta == 's' or respuesta == 'si':
